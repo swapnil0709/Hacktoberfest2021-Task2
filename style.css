@@ -1,8 +1,32 @@
-h1{
-    text-align: center;
-    color:red;
+h1 {
+  text-align: center;
+  color: red;
 }
 
-p{
-    font-size: 10px;
+p {
+  font-size: 10px;
+}
+body {
+  background-color: #f472b6;
+}
+.heading {
+  color: purple;
+}
+.name {
+  color: blue;
+}
+.flag-color-1 {
+  color: orange;
+}
+.flag-color-2 {
+  color: white;
+}
+.flag-color-3 {
+  color: green;
+}
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
